@@ -11,7 +11,7 @@ public class HomeControllers {
 
     @GetMapping("/version")
     public String getVersion(){
-        return "Vesion 1.0";
+        return "Vesion 2.0";
     }
 
 
